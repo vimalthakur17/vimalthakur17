@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning NextJs
+- 👯 I’m looking to collaborate on Frontend Projects
 <!--
 **vimalthakur17/vimalthakur17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
